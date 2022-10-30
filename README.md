@@ -1,2 +1,2 @@
-# HNG Internship2
+# HNG Internship
  project given by HNG Internsip
